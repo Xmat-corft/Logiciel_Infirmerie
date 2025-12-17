@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmEnregistrement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmListe2019.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
